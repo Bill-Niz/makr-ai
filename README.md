@@ -109,3 +109,6 @@ If you don't have an OpenAI API key, you can get one [here](https://platform.ope
 ## Contact
 
 If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/makrdev).
+
+## Project Stats
+![Alt](https://repobeats.axiom.co/api/embed/845ea17eede941a82d6c1613e325ce537cb38201.svg "Repobeats analytics image")
